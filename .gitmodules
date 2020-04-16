@@ -5,3 +5,4 @@
 [submodule "tools/flickr30k_entities"]
 	path = tools/flickr30k_entities
 	url = git@github.com:BryanPlummer/flickr30k_entities.git
+	ignore = untracked
