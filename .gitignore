@@ -1,3 +1,6 @@
+# project-specific
+data/task1/mask/*.data
+
 # editor
 .vscode/
 
